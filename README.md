@@ -10,8 +10,6 @@ The recorded video is processed using our convolutional neural networks that tra
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 * Java
 * XML
 * [TensorFlow]
